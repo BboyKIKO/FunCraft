@@ -1,0 +1,1 @@
+mDisplay = Display.getDisplay(this)
